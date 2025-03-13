@@ -1,3 +1,5 @@
+# [Deprecated]
+
 # safe-config-service
 
 [![Coverage Status](https://coveralls.io/repos/github/gnosis/safe-config-service/badge.svg)](https://coveralls.io/github/gnosis/safe-config-service)
